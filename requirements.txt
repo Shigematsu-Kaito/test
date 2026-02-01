@@ -2,6 +2,3 @@ folium
 streamlit-folium
 python-dotenv
 bcrypt
-pandas
-requests
-altair<5
